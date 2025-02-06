@@ -1,1 +1,1 @@
-consol.log("rehmna")
+consol.log("rehmna") 

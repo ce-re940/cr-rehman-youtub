@@ -1,0 +1,9 @@
+const accountname = rehman
+let account = "rehmanaslam@gmail.com"
+var accountpassword = "123456"
+accountcity = "okara"
+
+//accountId = 2// not allowed
+
+consol.log(accountId);
+
