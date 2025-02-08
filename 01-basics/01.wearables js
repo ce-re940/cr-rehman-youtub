@@ -2,8 +2,20 @@ const accountname = rehman
 let account = "rehmanaslam@gmail.com"
 var accountpassword = "123456"
 accountcity = "okara"
-
+let accountstate
 //accountId = 2// not allowed
+accountemail = "hc@hc.com"
+accountpassword = "21212121"
+accountcity = ":okara"
 
-consol.log(accountId);
+/*
+prefer not for use var
+because of issue inblock scoop and functional scoop
+*/
+
+consol.log (accountId);
+consol.table([accountId, accountemail, accountpassword, accountcity, accountstate]
+
+
+
 

@@ -1,0 +1,9 @@
+"use strict",//treet all js code an newer verison
+
+// alert (3+3) we are using nodejs, not browser
+
+console.log (3+3)
+
+
+
+
