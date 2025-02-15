@@ -2,8 +2,22 @@
 
 // alert (3+3) we are using nodejs, not browser
 
-console.log (3+3)
+console.log (3
+    +3)
+alert("3+3")
+
+console.log ("rehman")
+let name = "rehman"
+let age = 22
+let isloggedIn = false
 
 
 
 
+// number => 2 to  power 53
+// bigint
+// string =>
+// boolean => tru/false
+// null => standalone value
+// undefined =>
+// symbol    
